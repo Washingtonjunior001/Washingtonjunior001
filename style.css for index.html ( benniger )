@@ -1,0 +1,33 @@
+style.css
+body{
+
+background-color: rgb(245, 245, 245);
+color: rgb(0, 0, 0);
+margin: 0px;
+font-family: "Roboto Mono", monospace;
+
+}
+
+header{
+
+    border-bottom: solid 2px rgb(3, 3, 3);
+      margin: 20px;  
+      padding: 20px;
+    font-size: 25px;
+    }
+    section{
+        background-color: aqua;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+}
+.chamada-texto{
+margin-right: 5%;
+
+
+}
+p{
+font-size: 20px;
+
+}
